@@ -24,7 +24,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8?version=2&offset=-108
 #EXTINF:12 tvg-id="spas",СПАС
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
 #EXTINF:13 tvg-id="sts-pl4",СТС +4
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_7/variant.m3u8?version=2&offset=-10800
+http://158.46.245.158:81/udp/239.255.42.7:1234
 #EXTINF:14 tvg-id="domashny-pl4",Домашний +4
 http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 #EXTINF:15 tvg-id="tv3-ru-pl4",ТВ3 +4
@@ -209,8 +209,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
 #EXTINF:105 tvg-id="e-tv",E TV
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:106 tvg-id="tnt-music",ТНТ-Music
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AONE/variant.m3u8?version=2
+#EXTINF:106 tvg-id="tnt-music",ТНТ-Music HD
+http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
 #EXTINF:107 tvg-id="russian-musicbox",Russian MusicBox
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2
 #EXTINF:108 tvg-id="musicbox",MusicBox
@@ -329,3 +329,19 @@ http://92.46.127.146:8080/SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:165 tvg-id="zvezda",Звезда HD
 http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
+#EXTINF:166,Fashion 4K
+http://persik.by/stream/6495/401801/10317.m3u8
+#EXTINF:167	tvg-id="domashnie-zhivotnye",Домашние животные
+http://persik.by/stream/6495/401801/601.m3u8
+#EXTINF:168 tvg-id="voprosy-i-otvety",Вопросы и ответы
+http://persik.by/stream/6495/401801/603.m3u8
+#EXTINF:169 tvg-id="2na2",2x2 HD
+http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tracks-v1a1/mono.m3u8
+#EXTINF:170 tvg-id="eureka-hd",Эврика HD
+http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
+#EXTINF:171 tvg-id"super",Супер HD
+http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tracks-v1a1/mono.m3u8
+#EXTINF:172 tvg-id"tv3-ru",ТВ3 HD
+http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8
+#EXTINF:173 tvg-id"tnt4",ТНТ4 HD
+http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
