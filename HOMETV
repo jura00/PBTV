@@ -260,7 +260,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2
 #EXTINF:132 tvg-id="avto24",Авто24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2
 #EXTINF:133 tvg-id="soyuz",Союз
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+http://185.141.224.130/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:135 tvg-id="vip-comedy",VIP Comedy
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
 #EXTINF:136 tvg-id="vip-megahit",VIP Megahit
@@ -309,8 +309,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8?version=2
 #EXTINF:155 tvg-id="detsky",Детский
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2
-#EXTINF:156 tvg-id="mezzo",Mezzo
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8?version=2
 #EXTINF:157 tvg-id="mezzo-live-hd",Mezzo Live HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
 #EXTINF:158,Кузбасс 24
@@ -321,3 +319,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 https://vs6.vcdn.biz/5b39f9d7689deb889ec1ee82c2c05328_megogo/vod/fs/o/16283521/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid732518808-b4000000.m3u8
 #EXTINF:161 tvg-id="sila",Сила
 https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
+#EXTINF:162 Царьград
+https://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
+#EXTINF:163 tvg-id="world-fashion-channel",World Fashion Channel
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
