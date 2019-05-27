@@ -16,7 +16,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 #EXTINF:8 tvg-id="karusel-pl3",Карусель +3
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:9 tvg-id="otr",ОТР
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 #EXTINF:10 tvg-id="tvcentr-pl4",ТВ Центр +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 #EXTINF:11 tvg-id="rentv-pl4",Рен ТВ +4
@@ -42,7 +42,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
 #EXTINF:21 tvg-id="che-pl4",Че +4
 http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 #EXTINF:22 tvg-id="izvestia",Известия
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_IZVESTIYAHD/variant.m3u8?version=2&hd
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:23 tvg-id="yu-pl4",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
 #EXTINF:24 tvg-id="euronews",EuroNews
@@ -291,8 +291,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2
 #EXTINF:146 tvg-id="bollywood-hd",Bollywood
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2
-#EXTINF:147 tvg-id="rtd-hd",RTД HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RTDHD/variant.m3u8?version=2
+#EXTINF:147 tvg-id="rtd-hd",RTД FHD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 #EXTINF:148 tvg-id="food-network",Food Network
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
 #EXTINF:149 tvg-id="kuxnia-tv",Кухня ТВ
@@ -322,4 +322,10 @@ https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 #EXTINF:161,Царьград
 https://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
 #EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
+#EXTINF:163 tvg-id="setanta-sports",Setanta Sport HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:164 tvg-id="setanta-sports-plus",Setanta Sport Plus HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:165 tvg-id="zvezda",Звезда HD
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
