@@ -23,7 +23,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8?version=2&offset=-10800
 #EXTINF:12 tvg-id="spas",СПАС
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
-#EXTINF:13 tvg-id="sts-pl4",СТС +4
+#EXTINF:13 tvg-id="sts-pl4",СТС Кузбасс
 http://158.46.245.158:81/udp/239.255.42.7:1234
 #EXTINF:14 tvg-id="domashny-pl4",Домашний +4
 http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
