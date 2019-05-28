@@ -261,10 +261,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd
 #EXTGRP:Познавательные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2&hd
 #EXTINF:88 tvg-id="eda",Еда
-#EXTGRP:Кухня
+#EXTGRP:Кулинарные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8
 #EXTINF:89 tvg-id="eda-hd",Еда Премиум
-#EXTGRP:Кухня
+#EXTGRP:Кулинарные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8
 #EXTINF:90 tvg-id="istoria",История
 #EXTGRP:Познавательные
@@ -441,10 +441,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2
 #EXTGRP:Познавательные
 http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 #EXTINF:148 tvg-id="food-network",Food Network
-#EXTGRP:Кухня
+#EXTGRP:Кулинарные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
-#EXTINF:149 tvg-id="kuxnia-tv",Кухня ТВ
-#EXTGRP:Кухня
+#EXTINF:149 tvg-id="kuxnia-tv",Кулинарные ТВ
+#EXTGRP:Кулинарные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
 #EXTINF:150 tvg-id="bridge-hd",Bridge HD
 #EXTGRP:Музыкальные
@@ -515,3 +515,9 @@ http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tr
 #EXTINF:172 tvg-id="tv3-ru",ТВ3 HD
 #EXTGRP:Федеральные HD
 http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8
+#EXTINF:173 tvg-id="yu",Ю HD
+#EXTGRP:Федеральные HD
+http://video-4-305.rutube.ru/stream/10113616/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
+#EXTINF:174 tvg-id="eurosport2-ru",Eurosport 2 HD
+#EXTGRP:Спортивные
+http://37.192.248.203:81/udp/239.1.18.2:1234
