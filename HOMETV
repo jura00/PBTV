@@ -319,8 +319,8 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 http://bl.rutube.ru/stream/10114442/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=c2d2da533a9bbc468b739361f6b24f1b&e=1559052530
 #EXTINF:160 tvg-id="sila",Сила HD
 https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
-#EXTINF:161,Царьград
-https://tsargrad-livehls.cdnvideo.ru/smils/tsargrad-livehls.m3u8
+#EXTINF:161 tvg-id="dozhd",Дождь
+http://37.193.176.57:81/udp/239.1.13.6:1234
 #EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
 #EXTINF:163 tvg-id="setanta-sports",Setanta Sport HD
@@ -345,5 +345,3 @@ http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tr
 http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8
 #EXTINF:173 tvg-id="tnt4",ТНТ4 HD
 http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
-#EXTINF:175 tvg-id="dozhd",Дождь
-http://37.193.176.57:81/udp/239.1.13.6:1234
