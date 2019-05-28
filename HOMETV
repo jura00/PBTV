@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:1 tvg-id="pervy",Первый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
+http://158.46.245.158:81/udp/239.255.42.1:1234
 #EXTINF:2 tvg-id="rossia1-pl4",Россия 1 +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+http://158.46.245.158:81/udp/239.255.42.12:1234
 #EXTINF:3 tvg-id="match-tv",Матч ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:4 tvg-id="ntv-pl4",НТВ +4
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTV_4/variant.m3u8
+http://158.46.245.158:81/udp/239.255.42.3:1234
 #EXTINF:5 tvg-id="5kanal-ru-pl4",Пятый канал +4
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_5TV_7/variant.m3u8?version=2&offset=-10800
 #EXTINF:6 tvg-id="rossia-k",Россия Культура
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_4/variant.m3u8
 #EXTINF:7 tvg-id="rossia-24",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
+http://158.46.245.158:81/udp/239.255.42.9:1234
 #EXTINF:8 tvg-id="karusel-pl3",Карусель +3
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:9 tvg-id="otr",ОТР
