@@ -521,3 +521,7 @@ http://video-4-305.rutube.ru/stream/10113616/5c9327074e25ca86f3111d4085cbbb65/tr
 #EXTINF:174 tvg-id="eurosport2-ru",Eurosport 2 HD
 #EXTGRP:Спортивные
 http://37.192.248.203:81/udp/239.1.18.2:1234
+#EXTINF:175 tvg-id="psixologia-21",Психология 21
+#EXTGRP:Познавательные
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
+
