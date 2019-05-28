@@ -527,6 +527,6 @@ http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
 #EXTINF:176 tvg-id="epik-drama",Epic Drama HD
 #EXTGRP:Развлекательные
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
-#EXTINF:177 tvg-id="fashion-tv",Fashion TV HD
+#EXTINF:177 tvg-id="fashion-tv-eu",Fashion TV HD
 #EXTGRP:Мода
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
