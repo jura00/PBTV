@@ -339,9 +339,11 @@ http://persik.by/stream/6495/401801/603.m3u8
 http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tracks-v1a1/mono.m3u8
 #EXTINF:170 tvg-id="eureka-hd",Эврика HD
 http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
-#EXTINF:171 tvg-id"super",Супер HD
+#EXTINF:171 tvg-id="super",Супер HD
 http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tracks-v1a1/mono.m3u8
-#EXTINF:172 tvg-id"tv3-ru",ТВ3 HD
+#EXTINF:172 tvg-id="tv3-ru",ТВ3 HD
 http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8
-#EXTINF:173 tvg-id"tnt4",ТНТ4 HD
+#EXTINF:173 tvg-id="tnt4",ТНТ4 HD
 http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
+#EXTINF:175 tvg-id="dozhd",Дождь
+http://37.193.176.57:81/udp/239.1.13.6:1234
