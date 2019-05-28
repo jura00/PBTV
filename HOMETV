@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="pervy",Первый канал
+#EXTINF:1 tvg-id="pervy-pl4",Первый канал
 http://158.46.245.158:81/udp/239.255.42.1:1234
 #EXTINF:2 tvg-id="rossia1-pl4",Россия 1 +4
 http://158.46.245.158:81/udp/239.255.42.12:1234
