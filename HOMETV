@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-id="pervy-pl4",Первый канал
+#EXTGRP:
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 #EXTINF:2 tvg-id="rossia1-pl4",Россия 1 +4
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
