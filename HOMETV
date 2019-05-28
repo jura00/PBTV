@@ -524,4 +524,6 @@ http://37.192.248.203:81/udp/239.1.18.2:1234
 #EXTINF:175 tvg-id="psixologia-21",Психология 21
 #EXTGRP:Познавательные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
-
+#EXTINF:176 tvg-id="epik-drama",Epic Drama HD
+#EXTGRP:Развлекательные
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
