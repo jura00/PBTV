@@ -518,18 +518,12 @@ http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tr
 #EXTINF:173 tvg-id="yu",Ю HD
 #EXTGRP:Федеральные HD
 http://video-4-305.rutube.ru/stream/10113616/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
-#EXTINF:174 tvg-id="eurosport2-ru",Eurosport 2 HD
-#EXTGRP:Спортивные
-http://37.192.248.203:81/udp/239.1.18.2:1234
-#EXTINF:175 tvg-id="psixologia-21",Психология 21
+#EXTINF:174 tvg-id="psixologia-21",Психология 21
 #EXTGRP:Познавательные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
-#EXTINF:176 tvg-id="epik-drama",Epic Drama HD
+#EXTINF:175 tvg-id="epik-drama",Epic Drama HD
 #EXTGRP:Развлекательные
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
-#EXTINF:177 tvg-id="fashion-tv-eu",Fashion TV HD
-#EXTGRP:Мода
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:178 tvg-id="telekafe",Телекафе
+#EXTINF:176 tvg-id="telekafe",Телекафе
 #EXTGRP:Кулинарные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
