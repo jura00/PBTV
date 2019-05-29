@@ -481,8 +481,8 @@ http://bl.rutube.ru/stream/10114442/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?
 https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 #EXTINF:161 tvg-id="dozhd",Дождь
 #EXTGRP:Информационные
-http://37.193.176.57:81/udp/239.1.13.6:1234
-#EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
+http://37.194.184.105:81/udp/239.1.13.6:1234
+EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 #EXTGRP:Мода
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
 #EXTINF:163 tvg-id="setanta-sports",Setanta Sport HD
