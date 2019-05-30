@@ -714,7 +714,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:179 tvg-id="eurosport2-ru",Eurosport 2
 #EXTGRP:Спортивные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8
-#EXTVLCOPT:http-user-agent=SmartSDK
 #EXTINF:180 tvg-id="muzyka-pervogo",Музыка Первого
 #EXTGRP:Музыкальные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/216.m3u8
