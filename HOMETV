@@ -527,3 +527,6 @@ http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
 #EXTINF:176 tvg-id="telekafe",Телекафе
 #EXTGRP:Кулинарные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
+#EXTINF:177 tvg-id="rossia1-pl8" tvg-shift="-1",Россия 1 +7
+EXTGRP:Специальные
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1_7/variant.m3u8
