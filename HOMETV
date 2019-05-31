@@ -641,7 +641,7 @@ https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 #EXTVLCOPT:http-user-agent=SmartSDK
 #EXTINF:161 tvg-id="dozhd",Дождь
 #EXTGRP:Информационные
-http://ru.ottg.tv:9096/play/297/index.m3u8?auth=magisk:iptv007
+http://37.194.184.105:81/udp/239.1.13.6:1234
 #EXTVLCOPT:http-user-agent=SmartSDK
 EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 #EXTGRP:Мода
