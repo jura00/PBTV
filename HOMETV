@@ -49,7 +49,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8|User-Agent="SmartSDK"
 
 #EXTINF:13 tvg-id="sts-pl4",СТС Кузбасс
 #EXTGRP:Федеральные
-http://158.46.245.158:81/udp/239.255.42.7:1234|User-Agent="SmartSDK"
+http://158.46.245.158:81/udp/239.255.42.7:1234
 
 #EXTINF:14 tvg-id="domashny-pl4",Домашний +4
 #EXTGRP:Федеральные
@@ -85,7 +85,7 @@ http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8|User-A
 
 #EXTINF:22 tvg-id="izvestia",Известия
 #EXTGRP:Информационные
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8|User-Agent="SmartSDK"
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:23 tvg-id="yu-pl4",Ю
 #EXTGRP:Развлекательные
@@ -101,7 +101,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8|User-Agent="SmartSDK"
 
 #EXTINF:26 tvg-id="mir-24",Мир 24
 #EXTGRP:Информационные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8|User-Agent="SmartSDK"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:27 tvg-id="360-podmoskovie",360° Подмосковье
 #EXTGRP:Развлекательные
@@ -417,11 +417,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd|U
 
 #EXTINF:105 tvg-id="e-tv",E TV
 #EXTGRP:Развлекательные
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 #EXTINF:106 tvg-id="tnt-music",ТНТ-Music HD
 #EXTGRP:Музыкальные
-http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
 
 #EXTINF:107 tvg-id="russian-musicbox",Russian MusicBox
 #EXTGRP:Музыкальные
@@ -521,7 +521,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2|User-
 
 #EXTINF:131 tvg-id="soyuz",Союз
 #EXTGRP:Православные
-http://185.141.224.130/tvsoyuz/soyuz/playlist.m3u8|User-Agent="SmartSDK"
+http://185.141.224.130/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:132 tvg-id="vip-comedy",VIP Comedy
 #EXTGRP:Кино и сериалы
@@ -585,7 +585,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2|Us
 
 #EXTINF:147 tvg-id="rtd-hd",RTД FHD
 #EXTGRP:Познавательные
-http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8|User-Agent="SmartSDK"
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 
 #EXTINF:148 tvg-id="food-network",Food Network
 #EXTGRP:Кулинарные
@@ -625,100 +625,96 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=
 
 #EXTINF:157,Кузбасс 24
 #EXTGRP:Региональные
-http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8|User-Agent="SmartSDK"
+http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
 
 #EXTINF:158 tvg-id="nastoyaschee-vremia",Настоящее время
 #EXTGRP:Информационные
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8|User-Agent="SmartSDK"
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
 #EXTINF:159 tvg-id="piatnica",Пятница HD
 #EXTGRP:Федеральные HD
-http://bl.rutube.ru/stream/10114442/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=c2d2da533a9bbc468b739361f6b24f1b&e=1559052530|User-Agent="SmartSDK"
+http://bl.rutube.ru/stream/10114442/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=c2d2da533a9bbc468b739361f6b24f1b&e=1559052530
 
 #EXTINF:160 tvg-id="sila",Сила HD
 #EXTGRP:Спортивные
-https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8|User-Agent="SmartSDK"
+https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 
 #EXTINF:161 tvg-id="dozhd",Дождь
 #EXTGRP:Информационные
-http://37.194.184.105:81/udp/239.1.13.6:1234|User-Agent="SmartSDK"
+http://37.194.184.105:81/udp/239.1.13.6:1234
 
 #EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 #EXTGRP:Мода
-http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8|User-Agent="SmartSDK"
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
 
 #EXTINF:163 tvg-id="setanta-sports",Setanta Sport HD
 #EXTGRP:Спортивные
-http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2|User-Agent="SmartSDK"
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2
 
 #EXTINF:164 tvg-id="setanta-sports-plus",Setanta Sport Plus HD
 #EXTGRP:Спортивные
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8|User-Agent="SmartSDK"
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 
 #EXTINF:165 tvg-id="zvezda",Звезда HD
 #EXTGRP:Федеральные HD
-http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8|User-Agent="SmartSDK"
+http://livezvezda.cdnvideo.ru/zv/zvezda1.sdp/playlist.m3u8
 
 #EXTINF:166,Fashion 4K
 #EXTGRP:Мода
-http://persik.by/stream/6495/401801/10317.m3u8|User-Agent="SmartSDK"
+http://persik.by/stream/6495/401801/10317.m3u8
 
 #EXTINF:167 tvg-id="domashnie-zhivotnye",Домашние животные
 #EXTGRP:Познавательные
-http://persik.by/stream/6495/401801/601.m3u8|User-Agent="SmartSDK"
+http://persik.by/stream/6495/401801/601.m3u8
 
 #EXTINF:168 tvg-id="voprosy-i-otvety",Вопросы и ответы
 #EXTGRP:Познавательные
-http://persik.by/stream/6495/401801/603.m3u8|User-Agent="SmartSDK"
+http://persik.by/stream/6495/401801/603.m3u8
 
 #EXTINF:169 tvg-id="2na2",2x2 HD
 #EXTGRP:Федеральные HD
-http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://video-4-306.rutube.ru/stream/10113616/5c7a9178adf67b6976216334abb42f4f/tracks-v1a1/mono.m3u8
 
 #EXTINF:170 tvg-id="eureka-hd",Эврика HD
 #EXTGRP:Познавательные
-http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8|User-Agent="SmartSDK"
+http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
 
 #EXTINF:171 tvg-id="super",Супер HD
 #EXTGRP:Федеральные HD
-http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://video-4-206.rutube.ru/stream/10113616/dfbae35e461b25d827319d93ed5c1d76/tracks-v1a1/mono.m3u8
 
 #EXTINF:172 tvg-id="tv3-ru",ТВ3 HD
 #EXTGRP:Федеральные HD
-http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://video-4-206.rutube.ru/stream/10113616/7bf12d9c050f9a7ef3728db5730432ae/tracks-v1a1/mono.m3u8
 
 #EXTINF:173 tvg-id="yu",Ю HD
 #EXTGRP:Федеральные HD
-http://video-4-305.rutube.ru/stream/10113616/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+http://video-4-305.rutube.ru/stream/10113616/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
 
 #EXTINF:174 tvg-id="psixologia-21",Психология 21
 #EXTGRP:Познавательные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8|User-Agent="SmartSDK"
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
 
 #EXTINF:175 tvg-id="epik-drama",Epic Drama HD
 #EXTGRP:Развлекательные
-http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8|User-Agent="SmartSDK"
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
 
 #EXTINF:176 tvg-id="telekafe",Телекафе
 #EXTGRP:Кулинарные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8|User-Agent="SmartSDK"
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
 
-#EXTINF:177 tvg-id="rossia1-pl6",Россия 1 +6
-#EXTGRP:Специальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2|User-Agent="SmartSDK"
-
-#EXTINF:178 tvg-id="fashion-tv-eu",Fashion TV HD
+#EXTINF:177 tvg-id="fashion-tv-eu",Fashion TV HD
 #EXTGRP:Мода
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8|User-Agent="SmartSDK"
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:179 tvg-id="eurosport2-ru",Eurosport 2
+#EXTINF:178 tvg-id="eurosport2-ru",Eurosport 2
 #EXTGRP:Спортивные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8|User-Agent="SmartSDK"
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/143.m3u8
 
-#EXTINF:180 tvg-id="muzyka-pervogo",Музыка Первого
+#EXTINF:179 tvg-id="muzyka-pervogo",Музыка Первого
 #EXTGRP:Музыкальные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/216.m3u8|User-Agent="SmartSDK"
+http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/216.m3u8
 
-#EXTINF:181 tvg-id="tnt4",ТНТ4 HD
+#EXTINF:180 tvg-id="tnt4",ТНТ4 HD
 #EXTGRP:Развлекательные
-https://video-4-305.rutube.ru/stream/10113616/c801a7087e29a097192d74c270fbc6c1/tracks-v1a1/mono.m3u8|User-Agent="SmartSDK"
+https://video-4-305.rutube.ru/stream/10113616/c801a7087e29a097192d74c270fbc6c1/tracks-v1a1/mono.m3u8
