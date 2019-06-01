@@ -1,51 +1,51 @@
 #EXTM3U
 #EXTINF:1 tvg-id="pervy-pl4",Первый канал
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8
 
 #EXTINF:2 tvg-id="rossia1-pl4",Россия 1 +4
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
 
 #EXTINF:3 tvg-id="match-tv",Матч ТВ
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 
 #EXTINF:4 tvg-id="ntv-pl4",НТВ +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTV_4/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTV_4/variant.m3u8
 
 #EXTINF:5 tvg-id="5kanal-ru-pl4",Пятый канал +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_5TV_7/variant.m3u8?version=2&offset=-10800|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_5TV_7/variant.m3u8?version=2&offset=-10800
 
 #EXTINF:6 tvg-id="rossia-k",Россия Культура
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_4/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIAK_4/variant.m3u8
 
 #EXTINF:7 tvg-id="rossia-24",Россия 24
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=2
 
 #EXTINF:8 tvg-id="karusel-pl3",Карусель +3
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_4/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_4/variant.m3u8
 
 #EXTINF:9 tvg-id="otr",ОТР
 #EXTGRP:Федеральные
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8|User-Agent="SmartSDK"
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
 
 #EXTINF:10 tvg-id="tvcentr-pl4",ТВ Центр +4
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
 
 #EXTINF:11 tvg-id="rentv-pl4",Рен ТВ +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8?version=2&offset=-10800|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8?version=2&offset=-10800
 
 #EXTINF:12 tvg-id="spas",СПАС
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:13 tvg-id="sts-pl4",СТС Кузбасс
 #EXTGRP:Федеральные
@@ -53,35 +53,35 @@ http://158.46.245.158:81/udp/239.255.42.7:1234
 
 #EXTINF:14 tvg-id="domashny-pl4",Домашний +4
 #EXTGRP:Федеральные
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8|User-Agent="SmartSDK"
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
 
 #EXTINF:15 tvg-id="tv3-ru-pl4",ТВ3 +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3_4/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3_4/variant.m3u8
 
 #EXTINF:16 tvg-id="piatnica-pl4",Пятница +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_PYATNIZZA_4/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PYATNIZZA_4/variant.m3u8
 
 #EXTINF:17 tvg-id="zvezda-pl4",Звезда +4
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
 
 #EXTINF:18 tvg-id="mir-pl4",Мир +4
 #EXTGRP:Федеральные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_MIR_7/variant.m3u8?version=2&offset=-10800|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MIR_7/variant.m3u8?version=2&offset=-10800
 
 #EXTINF:19 tvg-id="tnt-pl4",ТНТ +4
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
 
 #EXTINF:20 tvg-id="muztv",Муз-ТВ
 #EXTGRP:Федеральные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
 
 #EXTINF:21 tvg-id="che-pl4",Че +4
 #EXTGRP:Федеральные
-http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8|User-Agent="SmartSDK"
+http://rt-sib-kem-htlive-lb.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
 
 #EXTINF:22 tvg-id="izvestia",Известия
 #EXTGRP:Информационные
@@ -89,15 +89,15 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:23 tvg-id="yu-pl4",Ю
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
 
 #EXTINF:24 tvg-id="euronews",EuroNews
 #EXTGRP:Информационные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
 
 #EXTINF:25 tvg-id="rbk",РБК
 #EXTGRP:Информационные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_BRC/variant.m3u8
 
 #EXTINF:26 tvg-id="mir-24",Мир 24
 #EXTGRP:Информационные
@@ -105,315 +105,315 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:27 tvg-id="360-podmoskovie",360° Подмосковье
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PODMOSKOVIEHD/variant.m3u8?version=2
 
 #EXTINF:28 tvg-id="360-news",360° Новости
 #EXTGRP:Информационные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
 
 #EXTINF:29 tvg-id="super-pl4",Супер +4
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
 
 #EXTINF:30 tvg-id="tv1000",TV1000
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2&hd
 
 #EXTINF:31 tvg-id="tv1000-action",TV1000 Action
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2&hd
 
 #EXTINF:32 tvg-id="sts-love-pl2",СТС Love +2
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
 
 #EXTINF:33 tvg-id="tvxxi",XXI
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/variant.m3u8?version=2
 
 #EXTINF:34 tvg-id="illuzion-plus",Иллюзион +
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULLUSIONPLUS/variant.m3u8?version=2
 
 #EXTINF:35 tvg-id="russky-illuzion",Русский иллюзион
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANILLUSION/variant.m3u8?version=2
 
 #EXTINF:36 tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000RUSSKOEKINOHD/variant.m3u8?version=2
 
 #EXTINF:37 tvg-id="kinokomedia",Кинокомедия
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_COMEDYTV/variant.m3u8?version=2
 
 #EXTINF:38 tvg-id="kinoxit",Кинохит
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOHITHD/variant.m3u8?version=2
 
 #EXTINF:39 tvg-id="kinomiks",Киномикс
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINO/variant.m3u8?version=2
 
 #EXTINF:40 tvg-id="kinosemiya",Киносемья
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOFAMILYHD/variant.m3u8?version=2
 
 #EXTINF:41 tvg-id="nashe-novoe-kino",Наше новое кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNOVOEKINO/variant.m3u8?version=2
 
 #EXTINF:42 tvg-id="kinosvidanie",Киносвидание
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINODATEHD/variant.m3u8?version=2
 
 #EXTINF:43 tvg-id="muzhskoe-kino",Мужское кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSKINOSOYUZ/variant.m3u8?version=2
 
 #EXTINF:44 tvg-id="rodnoe-kino",Родное кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
 
 #EXTINF:45 tvg-id="kinopremiera-hd",Кинопремьера
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOPREMIEREHD/variant.m3u8?version=2
 
 #EXTINF:46 tvg-id="paramount-comedy",Paramount Comedy Россия
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8?version=2&hd
 
 #EXTINF:47 tvg-id="sony-tv",Sony
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8?version=2&hd
 
 #EXTINF:48 tvg-id="sony-scifi",Sony Sci-Fi
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYSCIFI/variant.m3u8?version=2
 
 #EXTINF:49 tvg-id="sony-turbo",Sony Turbo
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SONYTURBO/variant.m3u8?version=2
 
 #EXTINF:50 tvg-id="fox",Fox
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_FOXHD/variant.m3u8?version=2
 
 #EXTINF:51 tvg-id="foxlife",Fox Life
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_FOXLIFEHD/variant.m3u8?version=2&hd
 
 #EXTINF:52 tvg-id="feniks-plus-kino",Феникс+ Кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_GENIKSPLUSKINO/variant.m3u8?version=2
 
 #EXTINF:53 tvg-id="domkino",Дом кино
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINO/variant.m3u8?version=2
 
 #EXTINF:54 tvg-id="domkino-premium",Дом кино Премиум
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMKINOPREMIUMHD/variant.m3u8?version=2
 
 #EXTINF:55 tvg-id="amedia1",А1
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&hd
 
 #EXTINF:56 tvg-id="amedia2",А2
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
 
 #EXTINF:57 tvg-id="komedia",Комедия
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
 
 #EXTINF:58 tvg-id="paramount-channel",Paramount Channel
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8?version=2
 
 #EXTINF:59 tvg-id="kino-tv",КиноТВ
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOTVHD/variant.m3u8?version=2
 
 #EXTINF:60 tvg-id="zee-tv",Zee-TV
 #EXTGRP:Индийское
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZEETV/variant.m3u8
 
 #EXTINF:61 tvg-id="russky-roman",Русский роман
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSKIYROMANHD/variant.m3u8?version=2
 
 #EXTINF:62 tvg-id="russky-bestseller",Русский бестселлер
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANBESTSELLER/variant.m3u8?version=2
 
 #EXTINF:63 tvg-id="russky-detektiv",Русский детектив
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_RUSSIANDETECTIVE/variant.m3u8?version=2
 
 #EXTINF:64 tvg-id="spike",Spike
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPIKEHD/variant.m3u8?version=2
 
 #EXTINF:65 tvg-id="star-cinema",Star Cinema Россия
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8?version=2
 
 #EXTINF:66 tvg-id="star-family",Star Family Россия
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STARFAMILYHD/variant.m3u8?version=2
 
 #EXTINF:67 tvg-id="history-hd",History
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDHISTORY/variant.m3u8?version=2&hd
 
 #EXTINF:68 tvg-id="travel-channel",Travel Channel
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TRAVELCHANNELHD/variant.m3u8?version=2&hd
 
 #EXTINF:69 tvg-id="national-geographic",National Geographic
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_NGCHD/variant.m3u8?version=2
 
 #EXTINF:70 tvg-id="nat-geo-wild",Nat Geo Wild
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_NATGEOWILDHD/variant.m3u8?version=2
 
 #EXTINF:71 tvg-id="viasat-explore-ru",Viasat Explore
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATEXPLOREHD/variant.m3u8?version=2&hd
 
 #EXTINF:72 tvg-id="viasat-history",Viasat History
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VIASATHISTORYHD/variant.m3u8?version=2&hd
 
 #EXTINF:73 tvg-id="viasat-nature",Viasat Nature
 #EXTGRP:Познавательные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATNATUREHD/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATNATUREHD/variant.m3u8
 
 #EXTINF:74 tvg-id="texno-24",Техно 24
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_24TEHNO/variant.m3u8?version=2
 
 #EXTINF:75 tvg-id="planeta-hd",Планета HD
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IQHD/variant.m3u8?version=2
 
 #EXTINF:76 tvg-id="discovery-ru",Discovery Channel
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYCHANNELHD/variant.m3u8?version=2
 
 #EXTINF:77 tvg-id="discovery-science",Discovery Science
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8?version=2
 
 #EXTINF:78 tvg-id="animal-planet",Animal Planet
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_ANIMALPLANETHD/variant.m3u8?version=2
 
 #EXTINF:79 tvg-id="dialogi-o-rybalke",Диалоги о рыбалке
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DIALORYBHD/variant.m3u8?version=2&hd
 
 #EXTINF:80 tvg-id="oxota-i-rybalka",Охота и рыбалка
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OHOTAIRYBALKS/variant.m3u8?version=2
 
 #EXTINF:81 tvg-id="retro-tv",Ретро
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RETROTV/variant.m3u8?version=2
 
 #EXTINF:82 tvg-id="drive",Драйв
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DRIVE/variant.m3u8?version=2
 
 #EXTINF:83 tvg-id="zdorovoe-tv",Здоровое ТВ
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZDOROVOETV/variant.m3u8?version=2
 
 #EXTINF:84 tvg-id="usadba",Усадьба
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_USADBA/variant.m3u8?version=2
 
 #EXTINF:85 tvg-id="dtx",DTX
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DTXHD/variant.m3u8?version=2&hd
 
 #EXTINF:86 tvg-id="h2",H2
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8?version=2&hd
 
 #EXTINF:87 tvg-id="id-xtra-ru",ID Xtra Россия
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_IDXTRAHD/variant.m3u8?version=2&hd
 
 #EXTINF:88 tvg-id="eda",Еда
 #EXTGRP:Кулинарные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EDA/variant.m3u8
 
 #EXTINF:89 tvg-id="eda-hd",Еда Премиум
 #EXTGRP:Кулинарные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EDAHD/variant.m3u8
 
 #EXTINF:90 tvg-id="istoria",История
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ISTORIYA/variant.m3u8?version=2
 
 #EXTINF:91 tvg-id="nickelodeon-ru",Nickelodeon
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8?version=2
 
 #EXTINF:92 tvg-id="disney-pl4",Disney +4
 #EXTGRP:Детские
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
 
 #EXTINF:93 tvg-id="mult",Мульт
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MULT/variant.m3u8?version=2
 
 #EXTINF:94 tvg-id="cartoon-network",Cartoon Network
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CARTOON_NETWORKSHD/variant.m3u8?version=2
 
 #EXTINF:95 tvg-id="boomerang",Boomerang
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOOMERANG/variant.m3u8?version=2
 
 #EXTINF:96 tvg-id="sts-kids-hd",СТС Kids HD
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSKIDSHD/variant.m3u8?version=2
 
 #EXTINF:97 tvg-id="tlc",TLC
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_TLCHD/variant.m3u8?version=2
 
 #EXTINF:98 tvg-id="bobior",Бобер
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOBER/variant.m3u8?version=2
 
 #EXTINF:99 tvg-id="anekdottv",Анекдот ТВ
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ANEKDOTTV/variant.m3u8?version=2
 
 #EXTINF:100 tvg-id="2na2-pl4",2х2 +4
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
 
 #EXTINF:101 tvg-id="tnt4-pl4",ТНТ4 +4
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
 
 #EXTINF:102 tvg-id="zhara",Жара
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JARAHD/variant.m3u8?version=2
 
 #EXTINF:103 tvg-id="mtv-russia",MTV Russia
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MTVHD/variant.m3u8?version=2
 
 #EXTINF:104 tvg-id="tvoy-dom",Твой Дом
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
 
 #EXTINF:105 tvg-id="e-tv",E TV
 #EXTGRP:Развлекательные
@@ -425,99 +425,99 @@ http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tr
 
 #EXTINF:107 tvg-id="russian-musicbox",Russian MusicBox
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2
 
 #EXTINF:108 tvg-id="musicbox",MusicBox
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUSICBOXTV/variant.m3u8?version=2
 
 #EXTINF:109 tvg-id="ru-tv",RU.TV
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUTVHD/variant.m3u8?version=2&hd
 
 #EXTINF:110 tvg-id="shanson-tv",Шансон-TB
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SHANSONTV/variant.m3u8?version=2
 
 #EXTINF:111 tvg-id="la-minor",Ля-минор
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8?version=2
 
 #EXTINF:112 tvg-id="europa-plus-tv",Европа Плюс ТВ
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
 
 #EXTINF:113 tvg-id="bridge-tv",Bridge TV
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2
 
 #EXTINF:114 tvg-id="bridge-tv-dance",Bridge TV Dance
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2
 
 #EXTINF:115 tvg-id="bridge-tv-classic",Bridge TV Classic
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVCLASSIC/variant.m3u8?version=2
 
 #EXTINF:116 tvg-id="bridge-tv-ruxit",Bridge TV Русский хит
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSONGTV/variant.m3u8?version=2
 
 #EXTINF:117 tvg-id="ufc",UFC ТВ
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD/bw5000000/variant.m3u8?version=2&hd
 
 #EXTINF:118 tvg-id="eurosport1-ru",Eurosport 1
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2&hd
 
 #EXTINF:119 tvg-id="eurosport-gold",Eurosport Gold
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT_GHD/variant.m3u8?version=2&hd
 
 #EXTINF:120 tvg-id="kxl-hd",КХЛ HD
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_KHLHD/variant.m3u8?version=2&hd
 
 #EXTINF:121 tvg-id="match-arena",Матч! Арена
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C04_SPORT1HD/variant.m3u8?version=2&hd
 
 #EXTINF:122 tvg-id="match-igra",Матч! Игра
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHIGRAHD/variant.m3u8?version=2&hd
 
 #EXTINF:123 tvg-id="match-premier",Матч! Премьер
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_NASHFOOTBALLHD/variant.m3u8?version=2&hd
 
 #EXTINF:124 tvg-id="match-nash-sport",Матч! Страна
 #EXTGRP:Спортивные
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8|User-Agent="SmartSDK"
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTVPLUSPORT/variant.m3u8
 
 #EXTINF:125 tvg-id="match-football1",Матч! Футбол 1
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL1HD/variant.m3u8?version=2&hd
 
 #EXTINF:126 tvg-id="match-football2",Матч! Футбол 2
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL2HD/variant.m3u8?version=2&hd
 
 #EXTINF:127 tvg-id="match-football3",Матч! Футбол 3
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FUTBALL3HD/variant.m3u8?version=2&hd
 
 #EXTINF:128 tvg-id="viasat-sport",Viasat Sport
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATSPORTHD/variant.m3u8?version=2
 
 #EXTINF:129 tvg-id="avto-plus",Авто Плюс
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AUTOPLUS/variant.m3u8?version=2
 
 #EXTINF:130 tvg-id="avto24",Авто24
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AVTO24HD/variant.m3u8?version=2
 
 #EXTINF:131 tvg-id="soyuz",Союз
 #EXTGRP:Православные
@@ -525,63 +525,63 @@ http://185.141.224.130/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:132 tvg-id="vip-comedy",VIP Comedy
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000COMEDYHD/variant.m3u8?version=2
 
 #EXTINF:133 tvg-id="vip-megahit",VIP Megahit
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8?version=2
 
 #EXTINF:134 tvg-id="vip-premiere",VIP Premiere
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?version=2&hd
 
 #EXTINF:135 tvg-id="vip-serial",VIP Serial
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2&hd
 
 #EXTINF:136 tvg-id="amedia-hit",A HOME OF HBO 1
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
 
 #EXTINF:137 tvg-id="amedia-premium",A HOME OF HBO 2
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
 
 #EXTINF:138 tvg-id="mir-premium",Мир Premium
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIRHD/variant.m3u8?version=2
 
 #EXTINF:139 tvg-id="rtg-hd",RTG HD
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RTGHD/variant.m3u8?version=2
 
 #EXTINF:140 tvg-id="tlum-hd",Тлум HD
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TLUMHD/variant.m3u8?version=2
 
 #EXTINF:141 tvg-id="pervy",Первый HD
 #EXTGRP:Федеральные HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TV/variant.m3u8?version=2&hd
 
 #EXTINF:142 tvg-id="rossia1",Россия 1 HD
 #EXTGRP:Федеральные HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_RUSSIA1HD/variant.m3u8?version=2&hd
 
 #EXTINF:143 tvg-id="tnt",ТНТ HD
 #EXTGRP:Федеральные HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNTHD/variant.m3u8?version=2&hd
 
 #EXTINF:144 tvg-id="rentv",РенТВ HD
 #EXTGRP:Федеральные HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8?version=2&hd
 
 #EXTINF:145 tvg-id="ntv",НТВ HD
 #EXTGRP:Федеральные HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_HD/variant.m3u8?version=2
 
 #EXTINF:146 tvg-id="bollywood-hd",Bollywood
 #EXTGRP:Индийское
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLLYWOODHD/variant.m3u8?version=2
 
 #EXTINF:147 tvg-id="rtd-hd",RTД FHD
 #EXTGRP:Познавательные
@@ -589,39 +589,39 @@ http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 
 #EXTINF:148 tvg-id="food-network",Food Network
 #EXTGRP:Кулинарные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
 
 #EXTINF:149 tvg-id="kuxnia-tv",Кухня ТВ
 #EXTGRP:Кулинарные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
 
 #EXTINF:150 tvg-id="bridge-hd",Bridge HD
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGEHD/variant.m3u8?version=2&hd
 
 #EXTINF:151 tvg-id="nickelodeon-hd",Nickelodeon HD
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2&hd|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_NICKELODEONHD/variant.m3u8?version=2&hd
 
 #EXTINF:152 tvg-id="sarafan",Сарафан
 #EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_SARAFAN/variant.m3u8?version=2
 
 #EXTINF:153 tvg-id="tayna",Тайна
 #EXTGRP:Документальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TAINA/variant.m3u8?version=2
 
 #EXTINF:154 tvg-id="v-gostiax-u-skazki",В гостях у сказки
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_VGOSTYAHUSKAZKI/variant.m3u8?version=2
 
 #EXTINF:155 tvg-id="detsky",Детский
 #EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DETSKIJ/variant.m3u8?version=2
 
 #EXTINF:156 tvg-id="mezzo-live-hd",Mezzo Live HD
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2|User-Agent="SmartSDK"
+http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=2
 
 #EXTINF:157,Кузбасс 24
 #EXTGRP:Региональные
