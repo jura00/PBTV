@@ -718,3 +718,7 @@ http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/216.m3u8
 #EXTINF:180 tvg-id="tnt4",ТНТ4 HD
 #EXTGRP:Развлекательные
 https://video-4-305.rutube.ru/stream/10113616/c801a7087e29a097192d74c270fbc6c1/tracks-v1a1/mono.m3u8
+
+#EXTINF:181 tvg-id="rbk",РБК HD
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
