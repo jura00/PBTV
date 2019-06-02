@@ -49,7 +49,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8
 
 #EXTINF:13 tvg-id="sts-pl4",СТС Кузбасс
 #EXTGRP:Федеральные
-http://158.46.245.158:81/udp/239.255.42.7:1234
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 
 #EXTINF:14 tvg-id="domashny-pl4",Домашний +4
 #EXTGRP:Федеральные
