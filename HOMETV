@@ -641,7 +641,7 @@ https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 
 #EXTINF:161 tvg-id="dozhd",Дождь
 #EXTGRP:Информационные
-http://37.194.184.105:81/udp/239.1.13.6:1234
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 
 #EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 #EXTGRP:Мода
