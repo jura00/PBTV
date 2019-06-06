@@ -639,10 +639,6 @@ http://bl.rutube.ru/stream/10114442/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?
 #EXTGRP:Спортивные
 https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8
 
-#EXTINF:161 tvg-id="dozhd",Дождь
-#EXTGRP:Информационные
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-
 #EXTINF:162 tvg-id="world-fashion-channel",World Fashion Channel HD
 #EXTGRP:Мода
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
@@ -702,10 +698,6 @@ http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1048/index.m3u8
 #EXTINF:176 tvg-id="telekafe",Телекафе
 #EXTGRP:Кулинарные
 http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
-
-#EXTINF:177 tvg-id="fashion-tv-eu",Fashion TV HD
-#EXTGRP:Мода
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:178 tvg-id="eurosport2-ru",Eurosport 2
 #EXTGRP:Спортивные
