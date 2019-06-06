@@ -421,7 +421,7 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 
 #EXTINF:106 tvg-id="tnt-music",ТНТ-Music HD
 #EXTGRP:Музыкальные
-http://video-4-206.rutube.ru/stream/10113616/5a294ae1ed12c44c7053301fb5fa9ba0/tracks-v1a1/mono.m3u8
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:107 tvg-id="russian-musicbox",Russian MusicBox
 #EXTGRP:Музыкальные
@@ -445,7 +445,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_AMOLL/variant.m3u8?version=2
 
 #EXTINF:112 tvg-id="europa-plus-tv",Европа Плюс ТВ
 #EXTGRP:Музыкальные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:113 tvg-id="bridge-tv",Bridge TV
 #EXTGRP:Музыкальные
