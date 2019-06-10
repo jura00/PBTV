@@ -3,7 +3,7 @@
 #EXTGRP:Федеральные
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
 
-#EXTINF:2 tvg-id="rossia1-pl4",Россия 1 +4
+#EXTINF:2 tvg-id="rossia1-pl4" tvg-logo="https://i.ibb.co/xhwjzvb/logo2.jpg",Россия 1 +4
 #EXTGRP:Федеральные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
 
