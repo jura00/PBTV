@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="pervy-pl4",Первый канал +4
+#EXTINF:1 tvg-id="pervy-pl4" tvg-logo="https://sib-itv01.svc.iptv.rt.ru/sdp/sib/nclogo1532358503480.png?height=171&keep_ratio=true&width=304&progressive=true",Первый канал +4
 #EXTGRP:Федеральные
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
 
