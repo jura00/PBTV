@@ -19,7 +19,7 @@ http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 #EXTGRP:Федеральные
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia-k",Россия Культура
+#EXTINF:-1 tvg-shift="-4" tvg-id="rossia-k",Россия Культура
 #EXTGRP:Федеральные
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
@@ -670,3 +670,11 @@ http://78.29.1.214/live/multimaniya_hd/copy/playlist.m3u8
 #EXTINF:183 tvg-id="poexali",Поехали!
 #EXTGRP:Познавательные
 http://78.29.1.84/live/poehali/copy/playlist.m3u8
+
+#EXTINF:184 tvg-id="nasha-sibir",Наша Сибирь HD
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+
+#EXTINF:185 tvg-id="zagorodny-int",Загородный Int
+#EXTGRP:Познавательные
+http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
