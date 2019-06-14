@@ -678,3 +678,8 @@ https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:185 tvg-id="zagorodny-int",Загородный Int
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+
+#EXTINF:186 tvg-id="hitv",HITV
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+
