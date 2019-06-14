@@ -5,7 +5,7 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia1-pl4",Россия 1 +4
 #EXTGRP:Федеральные
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_KEM/playlist.m3u8
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_KEM_ROSSIA1_KEM/variant.m3u8
 
 #EXTINF:-1 tvg-id="match-tv",Матч ТВ HD
 #EXTGRP:Федеральные
@@ -17,15 +17,15 @@ http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
 
 #EXTINF:-1 tvg-id="5kanal-ru-pl4",Пятый канал +4
 #EXTGRP:Федеральные
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia-k",Россия Культура
 #EXTGRP:Федеральные
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24",Россия 24
 #EXTGRP:Федеральные
-http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-id="karusel-pl3",Карусель +3
 #EXTGRP:Федеральные
@@ -674,11 +674,3 @@ http://78.29.1.84/live/poehali/copy/playlist.m3u8
 #EXTINF:184 tvg-id="nash-kinoroman",Наш кинороман
 #EXTGRP:Кино и сериалы
 http://grytsyk.iptvbot.biz/iptv/4N2L3XNUT74AMB/914/index.m3u8
-
-#EXTINF:185 tvg-id="home-4k",Home 4K
-#EXTGRP:Познавательные
-http://95.163.208.114:9981/stream/channelid/30346466
-
-#EXTINF:186 tvg-id="insight-ultra-hd",Insight UHD 
-#EXTGRP:Познавательные
-http://95.163.208.114:9981/stream/channelid/815726934
