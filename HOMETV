@@ -431,7 +431,7 @@ https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u
 #EXTGRP:Музыкальные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETV/variant.m3u8?version=2
 
-#EXTINF:114 tvg-id="bridge-tv-dance",Bridge TV Dance
+#EXTINF:114 tvg-id="bridge-tv-dance",Bridge TV Hits
 #EXTGRP:Музыкальные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVDANCE/variant.m3u8?version=2
 
