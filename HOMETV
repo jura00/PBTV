@@ -686,3 +686,7 @@ https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:187 tvg-id="dozhd",Дождь
 #EXTGRP:Новостные
 http://hlsonline.info-link.ru/streaming/dojd/324/vh1w/playlist.m3u8
+
+#EXTINF:188 tvg-id="kinopremium-hd",Кинопремиум HD
+#EXTGRP:Кино и сериалы
+http://ru.ottg.tv:9096/play/a0ix/index.m3u8?auth=Was:Was4Pda555777
