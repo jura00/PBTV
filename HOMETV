@@ -97,7 +97,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
 
 #EXTINF:25 tvg-id="rbk",РБК
 #EXTGRP:Информационные
-https://e2-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 
 #EXTINF:26 tvg-id="mir-24",Мир 24
 #EXTGRP:Информационные
