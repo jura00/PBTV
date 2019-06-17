@@ -23,7 +23,7 @@ http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
 #EXTGRP:Федеральные
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
 
-#EXTINF:-1 tvg-id="rossia-24",Россия 24
+#EXTINF:-1 tvg-shift="-4" tvg-id="rossia-24",Россия 24
 #EXTGRP:Федеральные
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
 
