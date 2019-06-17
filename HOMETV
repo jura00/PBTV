@@ -3,6 +3,10 @@
 #EXTGRP:Федеральные
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
 
+#EXTINF:-1 tvg-id="pervy-pl4",Первый HD +4 [TEST]
+#EXTGRP:Федеральные
+http://46.241.53.194:81/udp/239.54.5.61:1224
+
 #EXTINF:-1 tvg-id="rossia1-pl4",Россия 1 +4
 #EXTGRP:Федеральные
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_KEM_ROSSIA1_KEM/variant.m3u8
