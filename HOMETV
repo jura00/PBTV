@@ -211,6 +211,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&h
 #EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
 
+#EXTINF:-1 tvg-id="amedia2",А2 HD [test]
+#EXTGRP:Кино и сериалы
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/bw5000000/variant.m3u8?version=2
+
 #EXTINF:57 tvg-id="komedia",Комедия
 #EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KOMEDIA/variant.m3u8?version=2
@@ -519,11 +523,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8?vers
 #EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C06_VIASATGOLFHD/variant.m3u8?version=2&hd
 
-#EXTINF:136 tvg-id="amedia-hit",A HOME OF HBO 1
+#EXTINF:136 tvg-id="amedia-hit",Amedia Hit
 #EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIAHITHD/variant.m3u8?version=2&hd
 
-#EXTINF:137 tvg-id="amedia-premium",A HOME OF HBO 2
+#EXTINF:137 tvg-id="amedia-premium",Amedia Premium
 #EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?version=2&hd
 
@@ -691,7 +695,15 @@ http://hlsonline.info-link.ru/streaming/dojd/324/vh1w/playlist.m3u8
 #EXTGRP:Кино и сериалы
 http://ru.ottg.tv:9096/play/a0ix/index.m3u8?auth=Was:Was4Pda555777
 
+#EXTINF:190 tvg-id="ostrosiuzhetnoe-hd",Остросюжетное HD
+#EXTGRP:Кино и сериалы
+http://ru.ottg.tv:9096/play/a0j5/index.m3u8?auth=Was:Was4Pda555777
+
 #EXTINF:189 tvg-id="nash-kinoroman",Наш кинороман HD
 #EXTGRP:Кино и сериалы
 http://ru.ottg.tv:9096/play/a0j3/index.m3u8?auth=Was:Was4Pda555777
+
+#EXTINF:191 tvg-id="kinopokaz-hd2",Комедийное HD
+#EXTGRP:Кино и сериалы
+http://ru.ottg.tv:9096/play/a0j1/index.m3u8?auth=Was:Was4Pda555777
 
