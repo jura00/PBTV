@@ -684,11 +684,11 @@ https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 http://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
 
 #EXTINF:186 tvg-id="hitv",HITV
-#EXTGRP:Познавательные
+#EXTGRP:Музыкальные
 https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:187 tvg-id="dozhd",Дождь
-#EXTGRP:Новостные
+#EXTGRP:Информационные
 http://ru.ottg.tv:9096/play/297/index.m3u8?auth=Was:Was4Pda555777
 
 #EXTINF:188 tvg-id="kinopremium-hd",Кинопремиум HD
