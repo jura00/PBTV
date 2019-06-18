@@ -705,19 +705,19 @@ http://ru.ottg.tv:9096/play/a0j1/index.m3u8?auth=Was:Was4Pda555777
 
 #EXTINF:192 tvg-id="home-4k",HOME 4K
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K_HLS/variant.m3u8?version=2&hd
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K_HLS/variant.m3u8
 
 #EXTINF:193 tvg-id="insight-ultra-hd",Insight 4K
 #EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8
 
 #EXTINF:194 tvg-id="russian-extreme-uhd",Russian Extreme 4K
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2&hd
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 
 #EXTINF:195 tvg-id="ultra-hd-cinema",Ultra Cinema 4K
 #EXTGRP:Спортивные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 
 #EXTINF:196 tvg-id="joy-cook",Joy Cook
 #EXTGRP:Кулинарные
