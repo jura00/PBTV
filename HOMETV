@@ -605,7 +605,7 @@ http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
 
 #EXTINF:158 tvg-id="nastoyaschee-vremia",Настоящее время
 #EXTGRP:Информационные
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
 
 #EXTINF:159 tvg-id="piatnica",Пятница HD
 #EXTGRP:Федеральные HD
