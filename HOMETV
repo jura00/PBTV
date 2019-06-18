@@ -209,10 +209,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&h
 
 #EXTINF:56 tvg-id="amedia2",А2
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_AMEDIA2/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="amedia2",А2 HD [test]
-#EXTGRP:Кино и сериалы
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/bw5000000/variant.m3u8?version=2
 
 #EXTINF:57 tvg-id="komedia",Комедия
@@ -707,3 +703,22 @@ http://ru.ottg.tv:9096/play/a0j3/index.m3u8?auth=Was:Was4Pda555777
 #EXTGRP:Кино и сериалы
 http://ru.ottg.tv:9096/play/a0j1/index.m3u8?auth=Was:Was4Pda555777
 
+#EXTINF:192 tvg-id="home-4k",HOME 4K
+#EXTGRP:Познавательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_HOME4K_HLS/variant.m3u8?version=2&hd
+
+#EXTINF:193 tvg-id="insight-ultra-hd",Insight 4K
+#EXTGRP:Познавательные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_INSIGHTUHD_HLS/variant.m3u8?version=2
+
+#EXTINF:194 tvg-id="russian-extreme-uhd",Russian Extreme 4K
+#EXTGRP:Спортивные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2&hd
+
+#EXTINF:195 tvg-id="ultra-hd-cinema",Ultra Cinema 4K
+#EXTGRP:Спортивные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
+
+#EXTINF:196 tvg-id="joy-cook",Joy Cook
+#EXTGRP:Кулинарные
+https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
