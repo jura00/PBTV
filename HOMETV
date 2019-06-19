@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy-pl4",Первый канал +4
 #EXTGRP:Федеральные
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
