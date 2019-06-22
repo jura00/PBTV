@@ -97,7 +97,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8?version=2
 
 #EXTINF:25 tvg-id="rbk",РБК
 #EXTGRP:Информационные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_BRC/bw2000000/variant.m3u8?version=2
+http://e8.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 
 #EXTINF:26 tvg-id="mir-24",Мир 24
 #EXTGRP:Информационные
@@ -397,7 +397,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TVOIDOMHD/variant.m3u8?version=2&hd
 
 #EXTINF:105 tvg-id="e-tv",E TV
 #EXTGRP:Развлекательные
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+http://pub1-cdn.perm.ertelecom.ru/ehd_gibrid/0/track_1_2000/playlist.m3u8
 
 #EXTINF:106 tvg-id="tnt-music",ТНТ Music HD
 #EXTGRP:Музыкальные
@@ -571,9 +571,9 @@ http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 #EXTGRP:Кулинарные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
 
-#EXTINF:149 tvg-id="kuxnia-tv",Кухня ТВ
+#EXTINF:149 tvg-id="kuxnia-tv",Кухня ТВ HD
 #EXTGRP:Кулинарные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KUHNYA/variant.m3u8?version=2
+http://hls.telenet.lv:7878/kuhnjatvHD/playlist.m3u8
 
 #EXTINF:150 tvg-id="bridge-hd",Bridge HD
 #EXTGRP:Музыкальные
@@ -722,3 +722,32 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 #EXTINF:196 tvg-id="joy-cook",Joy Cook
 #EXTGRP:Кулинарные
 https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
+
+#EXTINF:197 tvg-id="1plus1-int",1+1 International
+#EXTGRP:Развлекательные
+http://topchantv.net:3456/live/911TVCDN/CDN911Stream004/335.m3u8
+
+#EXTINF:198 tvg-id="dacha",Дача HD
+#EXTGRP:Познавательные
+http://194.44.203.253/hls/161/stream.m3u8
+
+#EXTINF:199 tvg-id="football1-ua",Футбол 1 HD UA
+#EXTGRP:Спортивные
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football1hd/football1hd.m3u8
+
+#EXTINF:200 tvg-id="football2-ua",Футбол 2 HD UA
+#EXTGRP:Спортивные
+http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football2hd/football2hd.m3u8
+
+#EXTINF:201 tvg-id="docubox-hd",DocuBox HD
+#EXTGRP:Познавательные
+http://194.44.203.253/hls/213/stream.m3u8
+
+#EXTINF:202,DELUXE Lounge HD
+#EXTGRP:Познавательные
+http://194.44.203.253/hls/62/stream.m3u8
+
+#EXTINF:202 tvg-id="zagorodnaya-zhizn",Загородная жизнь
+#EXTGRP:Познавательные
+http://5.8.205.109:5055/play/a187
+
