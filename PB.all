@@ -603,10 +603,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=
 #EXTGRP:Региональные
 http://serv30.vintera.tv:8081/sibirj/kuzbass24/playlist.m3u8
 
-#EXTINF:158 tvg-id="nastoyaschee-vremia",Настоящее время
-#EXTGRP:Информационные
-https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
-
 #EXTINF:159 tvg-id="piatnica",Пятница HD
 #EXTGRP:Федеральные HD
 https://vs6.vcdn.biz/5b39f9d7689deb889ec1ee82c2c05328_megogo/vod/fs/o/16283521/u_sid/0/u_uid/0/u_vod/0/u_device/cms_html5/u_srvc/28561/type.live/chunklist-sid732518808-b4000000.m3u8
@@ -722,32 +718,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 #EXTINF:196 tvg-id="joy-cook",Joy Cook
 #EXTGRP:Кулинарные
 https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
-
-#EXTINF:197 tvg-id="1plus1-int",1+1 International
-#EXTGRP:Развлекательные
-http://topchantv.net:3456/live/911TVCDN/CDN911Stream004/335.m3u8
-
-#EXTINF:198 tvg-id="dacha",Дача HD
-#EXTGRP:Познавательные
-http://194.44.203.253/hls/161/stream.m3u8
-
-#EXTINF:199 tvg-id="football1-ua",Футбол 1 HD UA
-#EXTGRP:Спортивные
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football1hd/football1hd.m3u8
-
-#EXTINF:200 tvg-id="football2-ua",Футбол 2 HD UA
-#EXTGRP:Спортивные
-http://kv-3ln-n01.ollcdn.net/hls-tv/18/128147971028ef43d29d88c5490c0005/5ca630d7/football2hd/football2hd.m3u8
-
-#EXTINF:201 tvg-id="docubox-hd",DocuBox HD
-#EXTGRP:Познавательные
-http://194.44.203.253/hls/213/stream.m3u8
-
-#EXTINF:202,DELUXE Lounge HD
-#EXTGRP:Познавательные
-http://194.44.203.253/hls/62/stream.m3u8
-
-#EXTINF:202 tvg-id="zagorodnaya-zhizn",Загородная жизнь
-#EXTGRP:Познавательные
-http://5.8.205.109:5055/play/a187
-
