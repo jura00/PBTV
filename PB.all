@@ -453,7 +453,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=
 
 #EXTINF:120 tvg-id="eurosport2-ru",Eurosport 2
 #EXTGRP:Спортивные
-http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/234/index.m3u
+http://pub1-cdn.perm.ertelecom.ru/eurosport2hd_gibrid/0/track_2_4000/playlist.m3u8
 
 #EXTINF:119 tvg-id="eurosport-gold",Eurosport Gold
 #EXTGRP:Спортивные
@@ -718,3 +718,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 #EXTINF:196 tvg-id="joy-cook",Joy Cook
 #EXTGRP:Кулинарные
 https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
+
+#EXTINF:197 tvg-id="discovery-hd-showcase",Discovery Showcase HD
+#EXTGRP:Познавательные
+http://tvport.it-tele.net:8000/347c13f2884140a1343279d3f2b0bb34
+
+#EXTINF:198 tvg-id="fine-living",Fine Living HD
+#EXTGRP:Познавательные
+http://ott.shara.club:80/live/nonecsa/DGMkwp30d8/2002.m3u8
+
+#EXTINF:199 tvg-id="motorsportv-tv",Мотоспорт ТВ HD
+#EXTGRP:Спортивные
+http://pub1-cdn.perm.ertelecom.ru/motorstvhd_gibrid/0/track_1_2000/playlist.m3u8
+
+#EXTINF:200 tvg-id="museum-hd",Museum HD
+#EXTGRP:Познавательные
+http://pub1-cdn.perm.ertelecom.ru/museumhd_gibrid/0/track_1_2000/playlist.m3u8
