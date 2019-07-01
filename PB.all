@@ -453,7 +453,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=
 
 #EXTINF:120 tvg-id="eurosport2-ru",Eurosport 2
 #EXTGRP:Спортивные
-http://pub1-cdn.perm.ertelecom.ru/eurosport2hd_gibrid/0/track_2_4000/playlist.m3u8
+http://89.23.17.213:8888/udp/239.1.23.156:1234
 
 #EXTINF:119 tvg-id="eurosport-gold",Eurosport Gold
 #EXTGRP:Спортивные
@@ -734,3 +734,19 @@ http://pub1-cdn.perm.ertelecom.ru/motorstvhd_gibrid/0/track_1_2000/playlist.m3u8
 #EXTINF:200 tvg-id="museum-hd",Museum HD
 #EXTGRP:Познавательные
 http://pub1-cdn.perm.ertelecom.ru/museumhd_gibrid/0/track_1_2000/playlist.m3u8
+
+#EXTINF:201,BT Sport 1 HD
+#EXTGRP:Спортивные
+http://nettv-xcruiser.com:8000/CefJVmOd68/lkkAvVZRvR/12107
+
+#EXTINF:202,BT Sport 2 HD
+#EXTGRP:Спортивные
+http://nettv-xcruiser.com:8000/CefJVmOd68/lkkAvVZRvR/12109
+
+#EXTINF:203,BT Sport 3
+#EXTGRP:Спортивные
+http://nettv-xcruiser.com:8000/CefJVmOd68/lkkAvVZRvR/12109
+
+#EXTINF:204 tvg-id="rtvi",RTVi
+#EXTGRP:Информационные
+http://85.206.158.38:4022/udp/233.136.41.22:1234
