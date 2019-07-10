@@ -217,7 +217,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_360NEWSHD/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-id="dozhd",Дождь HD
 #EXTGRP:Информационные
-http://ru.ottg.tv:9096/play/297/index.m3u8?auth=Was:Was4Pda555777
+http://pub1-cdn.voronezh.ertelecom.ru/dojdhd_gibrid/0/track_2_4000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="soyuz",Союз
 #EXTGRP:Православные
@@ -229,7 +229,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000HD/variant.m3u8?version=2&hd
 
 #EXTINF:-1 tvg-id="tv1000-action",TV1000 Action HD
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV1000ACTIONHD/variant.m3u8?version=2&hd
+http://pub1-cdn.voronezh.ertelecom.ru/tv1000actionhd_gibrid/0/track_2_4000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus",Иллюзион +
 #EXTGRP:Кино и сериалы
@@ -301,7 +301,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C01_HDAMEDIA/variant.m3u8?version=2&h
 
 #EXTINF:-1 tvg-id="amedia2",А2 HD
 #EXTGRP:Кино и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MOTORSPORTTVHD/bw5000000/variant.m3u8?version=2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_A2PROLYBOV/variant.m3u8?version=2&hd
 
 #EXTINF:-1 tvg-id="komedia",Комедия
 #EXTGRP:Кино и сериалы
@@ -365,19 +365,19 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_HDAMEDIAPREMIUM/variant.m3u8?vers
 
 #EXTINF:-1 tvg-id="kinopremium-hd",Кинопремиум HD
 #EXTGRP:Кино и сериалы
-http://ru.ottg.tv:9096/play/a0ix/index.m3u8?auth=Was:Was4Pda555777
+http://188.35.9.11:2017
 
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd",Остросюжетное HD
 #EXTGRP:Кино и сериалы
-http://ru.ottg.tv:9096/play/a0j5/index.m3u8?auth=Was:Was4Pda555777
+http://176.62.191.181:38022/dop20533/ostrosuzhetnoe/index.m3u8
 
 #EXTINF:-1 tvg-id="nash-kinoroman",Наш кинороман HD
 #EXTGRP:Кино и сериалы
-http://ru.ottg.tv:9096/play/a0j3/index.m3u8?auth=Was:Was4Pda555777
+http://82.202.163.118:80/089/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz-hd2",Комедийное HD
 #EXTGRP:Кино и сериалы
-http://ru.ottg.tv:9096/play/a0j1/index.m3u8?auth=Was:Was4Pda555777
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
 
 #EXTINF:-1 tvg-id="ultra-hd-cinema",Ultra Cinema 4K
 #EXTGRP:Кино и сериалы
@@ -475,10 +475,6 @@ http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
 #EXTGRP:Познавательные
 http://78.29.1.81/live/hd_eureka/copy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="psixologia-21",Психология 21
-#EXTGRP:Познавательные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/344.m3u8
-
 #EXTINF:-1 tvg-id="sovsek",Совершенно секретно
 #EXTGRP:Познавательные
 http://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_54_480p.json/index-v1-a1.m3u8
@@ -530,10 +526,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_FOODHD/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="kuxnia-tv",Кухня ТВ HD
 #EXTGRP:Кулинарные
 http://hls.telenet.lv:7878/kuhnjatvHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="telekafe",Телекафе
-#EXTGRP:Кулинарные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/10.m3u8
 
 #EXTINF:-1 tvg-id="joy-cook",Joy Cook HD
 #EXTGRP:Кулинарные
@@ -645,7 +637,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C05_MEZZOLIVEHD/variant.m3u8?version=
 
 #EXTINF:-1 tvg-id="muzyka-pervogo",Музыка Первого
 #EXTGRP:Музыкальные
-http://hls-v3-spbtv.msk.spbtv.com/for_spb/msk/ipv3/216.m3u8
+http://109.235.192.213:4022/azrtv/60
 
 #EXTINF:-1 tvg-id="hitv",HITV HD
 #EXTGRP:Музыкальные
@@ -657,7 +649,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=
 
 #EXTINF:-1 tvg-id="eurosport2-ru",Eurosport 2 HD
 #EXTGRP:Спортивные
-http://89.23.17.213:8888/udp/239.1.23.156:1234
+http://pub1-cdn.voronezh.ertelecom.ru/eurosport2hd_gibrid/0/track_1_2000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport-gold",Eurosport Gold HD
 #EXTGRP:Спортивные
